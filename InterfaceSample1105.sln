@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirkiniuKrepselis", "PirkiniuKrepselis\PirkiniuKrepselis.csproj", "{37B9210E-26CE-40CB-8829-5E57DAC71298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSampleCore", "InterfaceSampleCore\InterfaceSampleCore.csproj", "{155A5998-7C81-4E5D-99E5-D4FAA7867806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B9210E-26CE-40CB-8829-5E57DAC71298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9210E-26CE-40CB-8829-5E57DAC71298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9210E-26CE-40CB-8829-5E57DAC71298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9210E-26CE-40CB-8829-5E57DAC71298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155A5998-7C81-4E5D-99E5-D4FAA7867806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155A5998-7C81-4E5D-99E5-D4FAA7867806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155A5998-7C81-4E5D-99E5-D4FAA7867806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155A5998-7C81-4E5D-99E5-D4FAA7867806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22BEC33-6936-4387-8B1C-C32FD31ED626}
+	EndGlobalSection
+EndGlobal
